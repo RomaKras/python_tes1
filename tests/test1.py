@@ -41,5 +41,3 @@ print(new_gener)
 #     print(x)
 #     # if i.__index__() == 10:
 #     #     print(i)
-
-new_dict = {}
